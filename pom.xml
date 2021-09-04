@@ -14,6 +14,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <jersey-version>2.27</jersey-version>
+        <sonar.projectKey>com.calcntbs:calcntb</sonar.projectKey>
     </properties>
 
 

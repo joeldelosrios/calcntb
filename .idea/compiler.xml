@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="calcntb" options="-endorseddirs C:\Users\Luis\IdeaProjects\calcntb\target/endorsed" />
+      <module name="calcntb" options="" />
     </option>
   </component>
 </project>
